@@ -12,6 +12,8 @@ Hi, I'm U.D. Sewmini 👋
   <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-blue?style=flat&logo=googlemaps&logoColor=white" alt="Based in"/>
 </p>
 
+---
+
 👋 About Me
 
 Motivated Software Engineering undergraduate specializing in **Cloud Application Development**, focused on building and deploying full-stack applications using industry-standard tools and platforms. I enjoy taking a project from a database schema all the way to a live cloud deployment — designing backend APIs, securing them with proper authentication, and shipping them on Microsoft Azure.
@@ -21,12 +23,16 @@ Motivated Software Engineering undergraduate specializing in **Cloud Application
 - 🤝 Open to collaborate on web development and cloud-based projects
 - ⚡ Fun fact: I've deployed apps to Azure, debugged OAuth failures, and lived to tell the tale
 
+---
+
 💻 Tech Stack
 **Languages:** JavaScript, Java, HTML, CSS
 **Backend:** Node.js, Express
 **Database:** Microsoft SQL Server (SSMS), Azure SQL
 **Cloud:** Azure App Service, Azure Blob Storage, Azure CLI
 **Tools:** VS Code, Postman, Git & GitHub
+
+---
 
 📫 Reach Me At
 - 📧 *udsewmini99@gmail.com*
@@ -39,14 +45,14 @@ Motivated Software Engineering undergraduate specializing in **Cloud Application
   <a href="https://github.com/Sewmini522"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-
+---
 
 💻 My Favorite Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=js,java,html,css,nodejs,express,mssql,azure,git,vscode,postman" />
 </p>
 
-
+---
 
 🧰 Tech Stack
 
@@ -82,20 +88,20 @@ Motivated Software Engineering undergraduate specializing in **Cloud Application
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-
+---
 
 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sewmini522&theme=darkhub&no-frame=true&row=2&column=6" />
 </p>
 
-
+---
 
 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sewmini522&theme=react-dark&hide_border=true" />
 </p>
 
-
+---
 
 <p align="center">⭐️ Thanks for stopping by my profile!</p>
