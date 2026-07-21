@@ -12,6 +12,21 @@ Hi, I'm U.D. Sewmini 👋
   <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-blue?style=flat&logo=googlemaps&logoColor=white" alt="Based in"/>
 </p>
 
+<table>
+<tr>
+<td width="60%">
+
+### 👋 About Me
+
+Motivated Software Engineering undergraduate specializing in Cloud Application Development...
+
+</td>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+</td>
+</tr>
+</table>
+
 ---
 
 👋 About Me
@@ -27,9 +42,13 @@ Motivated Software Engineering undergraduate specializing in **Cloud Application
 
 💻 Tech Stack
 **Languages:** JavaScript, Java, HTML, CSS
+
 **Backend:** Node.js, Express
+
 **Database:** Microsoft SQL Server (SSMS), Azure SQL
+
 **Cloud:** Azure App Service, Azure Blob Storage, Azure CLI
+
 **Tools:** VS Code, Postman, Git & GitHub
 
 ---
@@ -39,7 +58,7 @@ Motivated Software Engineering undergraduate specializing in **Cloud Application
 
 
 🌐 Connect With Me
-<p>
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Sewmini522"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -48,7 +67,7 @@ Motivated Software Engineering undergraduate specializing in **Cloud Application
 ---
 
 💻 My Favorite Tools & Technologies
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,html,css,nodejs,express,mssql,azure,git,vscode,postman" />
 </p>
 
@@ -57,7 +76,7 @@ Motivated Software Engineering undergraduate specializing in **Cloud Application
 🧰 Tech Stack
 
 **Languages**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
@@ -65,24 +84,24 @@ Motivated Software Engineering undergraduate specializing in **Cloud Application
 </p>
 
 **Backend & Frameworks**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/EXPRESS-black?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 **Cloud & DevOps**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AZURE-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AZURE%20BLOB%20STORAGE-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 **Databases**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 **Tools**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
