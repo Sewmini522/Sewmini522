@@ -41,11 +41,11 @@ Motivated Software Engineering undergraduate specializing in **Cloud Application
 ---
 
 💻 Tech Stack
-**Languages:** JavaScript, Java, HTML, CSS
+**Languages:** JavaScript, Java, HTML, CSS , Python, C , C++
 
 **Backend:** Node.js, Express
 
-**Database:** Microsoft SQL Server (SSMS), Azure SQL
+**Database:** Microsoft SQL Server (SSMS), Azure SQL, Supabase
 
 **Cloud:** Azure App Service, Azure Blob Storage, Azure CLI
 
