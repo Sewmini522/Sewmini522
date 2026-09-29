@@ -18,7 +18,7 @@ Hi, I'm U.D. Sewmini 👋
 
 ### 👋 About Me
 
-Motivated Software Engineering undergraduate specializing in Cloud Application Development...
+Motivated Mobile Application Development And Software Development ICT undergraduate specializing in Software Technologies...
 
 </td>
 <td width="40%">
